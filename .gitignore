@@ -1,0 +1,15 @@
+.env
+env/
+zchat/db.sqlite3
+zchat/blog/__pycache__/
+zchat/blog/migrations/__pycache__/
+zchat/zchat/__pycache__/
+zcaht/blog/images/
+zchat/blog/profile_images/
+zchat/media/
+zchat/staticfiles/
+*.log
+*.pot
+*.pyc
+__pycache__
+

@@ -2,6 +2,10 @@
 
 An online chat platform
 
+## Blog
+
+The prototype of a social media
+
 ## Videocall
 
 `/videochat/`
